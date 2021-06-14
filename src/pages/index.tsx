@@ -1,5 +1,7 @@
 import Head from "next/head";
 
+import Button from "../components/Button";
+
 import styles from "./index.module.css";
 
 export default function Home() {
@@ -11,6 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>Welcome</h1>
+      <Button>Click Me</Button>
     </div>
   );
 }
