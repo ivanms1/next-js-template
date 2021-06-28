@@ -4,14 +4,8 @@
     "es6": true,
     "node": true
   },
-  "extends": [
-    "eslint:recommended",
-    "plugin:react/recommended",
-    "plugin:@typescript-eslint/eslint-recommended",
-    "plugin:react-hooks/recommended",
-    "plugin:@typescript-eslint/recommended"
-  ],
-  "plugins": ["react", "@typescript-eslint"],
+  "extends": ["next", "next/core-web-vitals", "prettier"],
+  "plugins": ["@typescript-eslint"],
   "parser": "@typescript-eslint/parser",
   "settings": {
     "react": {
@@ -20,14 +14,10 @@
     "import/ignore": ["node_modules"]
   },
   "rules": {
-    "react/prop-types": "off",
     "@typescript-eslint/explicit-function-return-type": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "@typescript-eslint/camelcase": "off",
     "@typescript-eslint/no-explicit-any": "off",
-    "no-unused-vars": "off",
-    "react/jsx-uses-react": "off",
-    "react/react-in-jsx-scope": "off",
     "@typescript-eslint/no-unused-vars": ["error"]
   }
 }
