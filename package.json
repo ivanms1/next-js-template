@@ -14,11 +14,11 @@
     "next": "11.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "sass": "^1.35.1"
+    "sass": "^1.35.2"
   },
   "devDependencies": {
     "@svgr/webpack": "^5.5.0",
-    "@types/react": "17.0.11",
+    "@types/react": "17.0.14",
     "@typescript-eslint/eslint-plugin": "^4.28.1",
     "@typescript-eslint/parser": "^4.28.1",
     "eslint-config-next": "^11.0.1",
