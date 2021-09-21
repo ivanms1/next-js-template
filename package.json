@@ -14,7 +14,7 @@
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "sass": "^1.39.0"
+    "sass": "^1.42.0"
   },
   "devDependencies": {
     "@svgr/webpack": "^5.5.0",
@@ -31,7 +31,7 @@
     "stylelint-config-standard": "^22.0.0",
     "stylelint-order": "^4.1.0",
     "stylelint-prettier": "^1.2.0",
-    "typescript": "4.4.2"
+    "typescript": "4.4.3"
   },
   "lint-staged": {
     "*.{json,md}": [
