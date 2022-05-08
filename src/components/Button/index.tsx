@@ -1,9 +1,3 @@
-interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
-  children: React.ReactNode;
-}
-
-function Button({ children }: ButtonProps) {
-  return <button>{children}</button>;
-}
+import Button from "./Button";
 
 export default Button;
