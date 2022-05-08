@@ -14,7 +14,7 @@
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "sass": "^1.50.0"
+    "sass": "^1.51.0"
   },
   "devDependencies": {
     "@svgr/webpack": "^6.2.1",
