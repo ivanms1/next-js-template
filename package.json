@@ -14,7 +14,7 @@
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.0.0",
-    "sass": "^1.51.0"
+    "sass": "^1.53.0"
   },
   "devDependencies": {
     "@svgr/webpack": "^6.2.1",
@@ -26,7 +26,7 @@
     "eslint-config-prettier": "^8.5.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.6.2",
+    "prettier": "^2.7.1",
     "stylelint": "^14.8.2",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-standard": "^25.0.0",
