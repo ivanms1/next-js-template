@@ -33,7 +33,8 @@
     "stylelint-config-standard-scss": "^5.0.0",
     "stylelint-order": "^5.0.0",
     "stylelint-prettier": "^2.0.0",
-    "typescript": "4.8.2"
+    "typescript": "4.8.2",
+    "typescript-plugin-css-modules": "^3.4.0"
   },
   "lint-staged": {
     "*.{json,md}": [
