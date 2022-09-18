@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "eslint": "^7.32.0",
-    "next": "12.2.5",
+    "next": "12.3.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "sass": "^1.54.8"
