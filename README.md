@@ -8,3 +8,5 @@
 - Dependabot package updates
 - Sass
 - SVG support
+- Plop js component generation
+- Typescript support for css modules
