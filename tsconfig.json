@@ -16,7 +16,8 @@
     "plugins": [{ "name": "typescript-plugin-css-modules" }],
     "baseUrl": "./",
     "paths": {
-      "@/components/*": ["src/components/*"]
+      "@/components/*": ["src/components/*"],
+      "@/pages/*": ["src/pages/*"]
     },
     "incremental": true
   },
