@@ -92,7 +92,7 @@ The template includes automated code quality checks:
 - **ESLint** - JavaScript/TypeScript linting
 - **Prettier** - Code formatting
 - **Stylelint** - CSS/SCSS linting
-- **Pre-commit hooks** - Run checks before commits
+- **Husky** - Git hooks for pre-commit checks
 
 ### Available Scripts
 
